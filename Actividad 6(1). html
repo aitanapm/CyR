@@ -1,0 +1,23 @@
+<html>
+     <head>
+         <title>Países</title>
+     </head>
+    <body>
+    
+         <th>Países</th>
+        <th>Cantidad de habitantes</th>
+<body align="center" bgcolor="yellow">
+     <b><h1>Población de los paises con mayor cantidad de<br>
+            habitantes</b></h1></br>
+<hr size="4px" color="blue"/>
+      <img src="https://cdn.pixabay.com/photo/2016/08/08/20/05/globe-      1579177_960_720.png"width="415">
+    <table>
+   <tr>
+<th>Países</th>
+<th>Cantidad de habitantes</th>
+</th>
+
+</table>
+<table border="1" bgcolor="lime">
+</body>
+</html>
